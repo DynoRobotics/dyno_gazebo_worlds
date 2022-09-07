@@ -11,8 +11,8 @@
     </include>
     <spherical_coordinates>
       <surface_model>EARTH_WGS84</surface_model>
-      <latitude_deg>58.419049</latitude_deg>
-      <longitude_deg>15.605684</longitude_deg>
+      <latitude_deg>58.4190667</latitude_deg>
+      <longitude_deg>15.6056722</longitude_deg>
       <heading_deg>0.0</heading_deg>
       <elevation>30.0</elevation>
     </spherical_coordinates>
